@@ -1,9 +1,8 @@
-## Visit: [google-calendar-hours.com](http://google-calendar-hours.com/)
-(or [aronwoost.github.io/google-calendar-hours](http://aronwoost.github.com/google-calendar-hours/))
+## website:
+(or [lucy-lai.com/gcal](http://lucy-lai.com/gcal))
 
 After connecting you could see something like this:
 
-![screenshot 2019-01-05 20-10-20](https://user-images.githubusercontent.com/16663028/50728189-4ffe3500-1126-11e9-86d2-707de027fa97.png)
 
 ## Run locally
 ```
